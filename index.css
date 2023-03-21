@@ -1,0 +1,16 @@
+body {
+    background: pink;
+}
+
+.message {
+    background-color: lightpink;
+    padding: 30px;
+    text-align: center;
+    overflow: auto;
+}
+
+.message p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: rgb(15, 15, 15);
+}
